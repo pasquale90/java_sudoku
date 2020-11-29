@@ -10,7 +10,7 @@ are provided in the "main" function (ErgasiaJavaSudoku.java) of the program so a
 
 ### Contents
 <p align="left">
-<img src="contents.png" width="430px"/>
+<img src="contents.PNG" width="430px"/>
 </p>
 
 ### Logic 
