@@ -24,9 +24,6 @@ This uml-diagram depicts the logic of the program.
 
 In order to compile successively the program, the "path" variable ought to be changed appropriately, 
 according to the corresponding user's local path, where the program is located.
-This variable is located in the class "Users" as a private field 
-and also in the class "SudokuLogic" whithin the "readSudokuFile" function.
-
-
-
-       
+This variable is located in the class:
+- [User](code/ErgasiaJavaSudoku/src/ergasiajavasudoku/User.java) as a private field,
+- [SudokuLogic](code/ErgasiaJavaSudoku/src/ergasiajavasudoku/SudokuLogic.java) whithin the "readSudokuFile" function.      
