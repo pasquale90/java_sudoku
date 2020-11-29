@@ -17,7 +17,7 @@ are provided in the "main" function (ErgasiaJavaSudoku.java) of the program so a
 This uml-diagram depicts the logic of the program.
 
 <p align="left">
-<img src="uml-diagram.jpg" width="700px"/>
+<img src="uml-diagram.jpg" width="1240px"/>
 </p>
 
 ### SOS
