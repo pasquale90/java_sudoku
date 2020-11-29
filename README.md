@@ -17,7 +17,7 @@ This variable is located in the class "Users" as a private field
 and also in the class "SudokuLogic" whithin the "readSudokuFile" function.
 
 
-##Contents
+### Contents
 <p align="left">
 <img src="contents.JPG" width="430px"/>
 </p>
