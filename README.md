@@ -19,6 +19,6 @@ and also in the class "SudokuLogic" whithin the "readSudokuFile" function.
 
 ##Contents
 <p align="left">
-<img src="contents.JPG" width="300px"/>
+<img src="contents.JPG" width="430px"/>
 </p>
        
