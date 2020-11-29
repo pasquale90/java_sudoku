@@ -7,10 +7,17 @@ This project is implemented for educational purposes...
 
 Due to the fact that this project lacks in interface implementation, alternatively, indicative code blocks
 are provided in the "main" function (ErgasiaJavaSudoku.java) of the program so as that can be used as a manual guide. 
-The logic is shown in the uml-diagram's picture.
 
+### Contents
 <p align="left">
 <img src="contents.JPG" width="430px"/>
+</p>
+
+### Logic 
+This uml-diagram depicts the logic of the program.
+
+<p align="left">
+<img src="uml-diagram.jpg" width="430px"/>
 </p>
 
 ### SOS
@@ -21,8 +28,5 @@ This variable is located in the class "Users" as a private field
 and also in the class "SudokuLogic" whithin the "readSudokuFile" function.
 
 
-### Contents
-<p align="left">
-<img src="contents.JPG" width="430px"/>
-</p>
+
        
